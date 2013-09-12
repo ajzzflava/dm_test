@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  amount: 1.5
+  date: 2013-09-10
+  name: MyString
+  description: MyText
+
+two:
+  amount: 1.5
+  date: 2013-09-10
+  name: MyString
+  description: MyText
